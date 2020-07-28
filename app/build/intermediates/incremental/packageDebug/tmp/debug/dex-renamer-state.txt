@@ -1,0 +1,7 @@
+#Tue Jun 23 20:05:07 ICT 2020
+base.0=E\:\\Kuliah\\SEMESTER 6\\Pemrograman Bergerak\\MiniProject\\jadwalimsakiyah-dwipanji\\JadwalImsakiyah\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=E\:\\Kuliah\\SEMESTER 6\\Pemrograman Bergerak\\MiniProject\\jadwalimsakiyah-dwipanji\\JadwalImsakiyah\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
